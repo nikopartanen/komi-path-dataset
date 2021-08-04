@@ -3,7 +3,7 @@
 This is an open access dataset that contains examples of via-cases in Komi varieties. Zyrian Komi is typologically unusual as it has two distinct cases to express this relatively rare function. Those cases are commonly called as prolative and transitive.
 
 There is currently one dataset, one that represents standard written Komi, primarily from the early 20th century. 
-The example file is located under `data/observations.tsv`, and the motion class classification done for individual predicates is stored in `data/motion_classes.tsv`. The materials can also be browsed in an accompanying [website](https://nikopartanen.github.io/komi-prolative-dataset/). 
+The example file is located under `data/observations.tsv`, and the motion class classification done for individual predicates is stored in `data/motion_classes.tsv`. The materials can also be browsed in an accompanying [website](https://nikopartanen.github.io/komi-path-dataset/). 
 In the future also a dataset that contains dialectal examples will be added. 
 
 These materials are licensed under CC-BY license. 
