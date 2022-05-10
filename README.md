@@ -1,9 +1,11 @@
 # komi-prolative-dataset
 
+[![DOI](https://zenodo.org/badge/373566639.svg)](https://zenodo.org/badge/latestdoi/373566639)
+
 This is an open access dataset that contains examples of via-cases in Komi varieties. Zyrian Komi is typologically unusual as it has two distinct cases to express this relatively rare function. Those cases are commonly called as prolative and transitive.
 
-There is currently one dataset, one that represents standard written Komi, primarily from the early 20th century. 
-The example file is located under `data/observations.tsv`, and the motion class classification done for individual predicates is stored in `data/motion_classes.tsv`. The materials can also be browsed in an accompanying [website](https://nikopartanen.github.io/komi-path-dataset/). 
+There is currently one dataset that represents standard written Komi, primarily from the early 20th century. 
+The file that contains individual examples is located in `data/observations.tsv`, and the motion class classification done for individual predicates is stored in `data/motion_classes.tsv`. The materials can also be browsed in an accompanying [website](https://nikopartanen.github.io/komi-path-dataset/). 
 In the future also a dataset that contains dialectal examples will be added. 
 
 These materials are licensed under CC-BY license. 
@@ -14,7 +16,7 @@ Please also acknowledge different authors and sources, and refer to them as appr
 
 The studies in which these materials have been used are:
 
-> Niko Partanen & Riku Erkkilä: (Accepted.) Cases denoting path in Komi: Semantic, dialectological and historical perspectives. Linguistica Uralica.
+> Niko Partanen & Riku Erkkilä 2022. Cases denoting path in Komi: Semantic, dialectological and historical perspectives. Linguistica Uralica LVIII, 2. DOI: https://dx.doi.org/10.3176/lu.2022.2.01
 
 > Niko Partanen & Riku Erkkilä 2020. Dialectal variation in the path-coding cases in Komi. In: Permistika 18. Dialekty i istorija permskix jazykov vo vzaimodeĭstvii s drugimi jazykami. Sbornik statej. Iževsk.
 
