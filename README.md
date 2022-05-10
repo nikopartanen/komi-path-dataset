@@ -23,5 +23,7 @@ The studies in which these materials have been used are:
 We hope that by creating an openly available dataset that contains verified and annotated examples in Komi language contributes into further research in this topic. 
 All mistakes in the annotations are our own, and we are happy if the users report us any issues they encounter. 
 If you use the dataset, please let us know, and we will add your study to the list above. 
+The datasets and analytical code used in the individual studies is located under the directory `studies`. 
+New contributions from different case studies are welcome, as are improvements to the earlier analysis. 
 
 Many languages in the world have a case to express a movement along a path. These cases are regularly called with various names, which include prolative, prosecutive, transitive and many others. Still, to have a specific case for this function is something most of the languages do not do. 
